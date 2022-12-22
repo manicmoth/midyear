@@ -24,8 +24,8 @@ Kate M. & Alex. B
 
 --- 
 
-<img src="https://placekitten.com/450/300" width="49%" height="200" align="right">
-<img src="https://placekitten.com/450/300" width="49%" height="200" align="left">
+<img src="logo.png" width="49%" height="200" align="right">
+<img src="logo.png" width="49%" height="200" align="left">
 
 <p align="left"> 
     Interactive art is an emerging domain of media that currently lacks tools that are approachable for entry level users and established artists.
