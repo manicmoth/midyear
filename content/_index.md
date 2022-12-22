@@ -157,3 +157,8 @@ Simulations and <a>Live View</a> of end result enables easier workflow
 - Integrate with other workflow tooling 
 
 ---
+
+<img src="logo.png" width="30%" align="left">
+
+## contact: 
+### moth.lab@proton.me
