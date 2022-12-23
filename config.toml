@@ -1,4 +1,4 @@
-baseURL = 'https://manicmoth.github.io/midyear/'
+baseURL = 'https://midyear.moth.ooo/'
 languageCode = 'en-us'
 title = 'Moth'
 publishDir = "docs"
